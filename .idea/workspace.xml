@@ -2,39 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="257c7e3b-5c1c-4f62-8491-fc84197d50eb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documents/images/admin_shows_post.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documents/images/empty_screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documents/images/gfm_index.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documents/images/logged_in_no_blog.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documents/images/new_post.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documents/images/no_template.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documents/images/post_list_in_admin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documents/images/post_list_with_str.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documents/images/posts_in_index.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documents/images/with_css.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/django-gfm.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogengine/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogengine/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogengine/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogengine/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogengine/templates/blogengine/post_list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogengine/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogengine/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogengine/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django_gfm_prj/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django_gfm_prj/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django_gfm_prj/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django_gfm_prj/wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -105,7 +74,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post_list.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="post_list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blogengine/templates/blogengine/post_list.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
@@ -137,11 +106,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="557">
-              <caret line="85" column="14" lean-forward="false" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="14" />
+            <state relative-caret-position="659">
+              <caret line="90" column="5" lean-forward="false" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -163,7 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/django_gfm_prj/urls.py" />
         <option value="$PROJECT_DIR$/blogengine/urls.py" />
         <option value="$PROJECT_DIR$/django_gfm_prj/settings.py" />
@@ -171,6 +139,7 @@
         <option value="$PROJECT_DIR$/blogengine/views.py" />
         <option value="$PROJECT_DIR$/blogengine/models.py" />
         <option value="$PROJECT_DIR$/blogengine/templates/blogengine/post_list.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -579,9 +548,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991913" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -612,14 +581,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="85" column="14" lean-forward="false" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/django_gfm_prj/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -682,6 +643,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="659">
+          <caret line="90" column="5" lean-forward="false" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
           <folding />
         </state>
       </provider>
